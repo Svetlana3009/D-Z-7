@@ -1,0 +1,14 @@
+C:\Sveta\Git\DZ\bin\Debug\net7.0\DZ.exe
+C:\Sveta\Git\DZ\bin\Debug\net7.0\DZ.deps.json
+C:\Sveta\Git\DZ\bin\Debug\net7.0\DZ.runtimeconfig.json
+C:\Sveta\Git\DZ\bin\Debug\net7.0\DZ.dll
+C:\Sveta\Git\DZ\bin\Debug\net7.0\DZ.pdb
+C:\Sveta\Git\DZ\obj\Debug\net7.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sveta\Git\DZ\obj\Debug\net7.0\DZ.AssemblyInfoInputs.cache
+C:\Sveta\Git\DZ\obj\Debug\net7.0\DZ.AssemblyInfo.cs
+C:\Sveta\Git\DZ\obj\Debug\net7.0\DZ.csproj.CoreCompileInputs.cache
+C:\Sveta\Git\DZ\obj\Debug\net7.0\DZ.dll
+C:\Sveta\Git\DZ\obj\Debug\net7.0\refint\DZ.dll
+C:\Sveta\Git\DZ\obj\Debug\net7.0\DZ.pdb
+C:\Sveta\Git\DZ\obj\Debug\net7.0\DZ.genruntimeconfig.cache
+C:\Sveta\Git\DZ\obj\Debug\net7.0\ref\DZ.dll
